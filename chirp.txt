@@ -67,21 +67,53 @@ Enter CHIRP
 
 * over 100 radios supported
 * new ones added all the time
-* runs on nearly every OS (python)
-* open data formats
 * costs nothing, royalty-free
+* open data formats
+* runs on nearly every OS (python)
 
 
 OSes
 ====
 
-* Windows
+.. class:: incremental
+
+* Windows XP, Vista, 7, 8, 10
 * Unix, Linux, Mac OS X, any BSD, Solaris, etc.
 
 .. image:: images/unix_system.png
 
 
-Home
-====
+Moar Info
+=========
+
+.. class:: incremental
 
 * http://chirp.danplanet.com
+* Dan Smith KK7DS + many others
+* wiki with helpful documentation
+* look at the code ("open source")
+* GPLv3 license ("free software")
+
+
+Memories!
+=========
+
+.. class:: incremental
+
+* plain text files (CSV)
+* backup, email, share them
+* event-specific lists
+* repeater groups for travel
+* import data from online sources
+
+
+Getting Started
+===============
+
+.. class:: incremental
+
+* make sure your rig is supported
+* TTL-to-USB or serial cable
+* whatever weird connector on the end
+* build or buy one
+* download and install CHIRP (LiveCD?)
