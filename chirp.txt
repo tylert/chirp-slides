@@ -25,3 +25,14 @@ RRR
 
 .. image:: images/pirate_keyboard.png
 
+
+G.I.G.O.
+========
+
+.. class:: incremental
+
+* spare transceivers?
+* configure them all the same?
+* lend them out for events?
+* 1000s of button presses?
+* wrong tones, offsets?
