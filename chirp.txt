@@ -31,8 +31,28 @@ G.I.G.O.
 
 .. class:: incremental
 
-* spare transceivers?
-* configure them all the same?
-* lend them out for events?
-* 1000s of button presses?
+* spare transceivers
+* lend them out for events
+* configure them all the same
+* hundreds of button presses
 * wrong tones, offsets?
+
+
+Solution?
+=========
+
+.. class:: incremental
+
+* programming with software help!
+* sold as an accessory (for more $$$)
+* works with one OS, few versions
+* different one for each rig
+* custom data formats
+
+
+Remote Assistance
+=================
+
+.. image:: images/help_programming.png
+
+* http://hamradioprogramming.com
