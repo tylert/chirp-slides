@@ -20,10 +20,12 @@ Modern Transceivers
 * cryptic symbols (e.g.: "R")
 
 
-RRR
-===
+Usability
+=========
 
 .. image:: images/pirate_keyboard.png
+
+* Photo by Bobby Baker
 
 
 G.I.G.O.
@@ -43,10 +45,10 @@ Solution?
 
 .. class:: incremental
 
-* programming with software help!
-* sold as an accessory (for more $$$)
-* works with one OS, few versions
-* different one for each rig
+* software can save us!
+* sold as an accessory, for more $$$
+* works on only 1 OS and/or version
+* different for each rig
 * custom data formats
 
 
@@ -56,3 +58,30 @@ Remote Assistance
 .. image:: images/help_programming.png
 
 * http://hamradioprogramming.com
+
+
+Enter CHIRP
+===========
+
+.. class:: incremental
+
+* over 100 radios supported
+* new ones added all the time
+* runs on nearly every OS (python)
+* open data formats
+* costs nothing, royalty-free
+
+
+OSes
+====
+
+* Windows
+* Unix, Linux, Mac OS X, any BSD, Solaris, etc.
+
+.. image:: images/unix_system.png
+
+
+Home
+====
+
+* http://chirp.danplanet.com
