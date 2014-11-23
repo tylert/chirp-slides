@@ -1,9 +1,9 @@
 .PHONY : all
-all : chirp.html
+all : index.html
 
-chirp.html : chirp.txt
+index.html : chirp.txt
 	@rst2s5 --theme small-black $< $@
 
 .PHONY : clean
 clean :
-	@rm -rf chirp.html ui
+	@rm -rf ui index.html
