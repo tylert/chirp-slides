@@ -45,11 +45,12 @@ Solution?
 
 .. class:: incremental
 
-* software can save us!
 * sold as an accessory, for more $$$
 * works on only 1 OS and/or version
 * different for each rig
 * custom data formats
+* little info when it isn't working (e.g.:  Windows Error 587)
+* ERROR_MUTANT_LIMIT_EXCEEDED???
 
 
 Remote Assistance
@@ -69,7 +70,7 @@ Enter CHIRP
 * new ones added all the time
 * costs nothing, royalty-free
 * open data formats
-* runs on nearly every OS (python)
+* runs on nearly every OS (Python)
 
 
 OSes
@@ -100,10 +101,10 @@ Memories!
 
 .. class:: incremental
 
-* plain text files (CSV)
-* backup, email, share them
-* event-specific lists
-* repeater groups for travel
+* plain text files (CSV) + image files
+* backup, email, share memory sets
+* maintain event-specific lists
+* store repeater groups for travel
 * import data from online sources
 
 
