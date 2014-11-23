@@ -1,0 +1,27 @@
+.. include:: <s5defs.txt>
+
+========================
+CHIRP Memory Programming
+========================
+
+:Authors: Tyler Tidman VA3DGN
+:Date:    January 6, 2015
+
+
+Modern Transceivers
+===================
+
+.. class:: incremental
+
+* DC-to-daylight mobile rigs and HTs
+* 1000+ "channel" memories
+* tiny screens, big manuals
+* fancy-combo button presses
+* cryptic symbols (e.g.: "R")
+
+
+RRR
+===
+
+.. image:: images/pirate_keyboard.png
+
