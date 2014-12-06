@@ -40,7 +40,7 @@ G.I.G.O.
 * wrong tones, offsets?
 
 
-Computer Solution?
+Software Solution?
 ==================
 
 .. class:: incremental
@@ -78,7 +78,7 @@ OSes
 
 .. class:: incremental
 
-* Windows XP, Vista, 7, 8, 10
+* Windows XP, Vista, 7, 8, 10?
 * Unix, Linux, Mac OS X, any BSD, Solaris, etc.
 
 .. image:: images/unix_system.png
@@ -113,8 +113,20 @@ Getting Started
 
 .. class:: incremental
 
-* make sure your rig is supported
+* check if your rig is supported
 * TTL-to-USB or serial cable
 * whatever weird connector on the end
 * build or buy one
 * download and install CHIRP (LiveCD?)
+
+
+Binary Images
+=============
+
+.. class:: incremental
+
+* each preamble differs slightly
+* download from radio to get image file
+* copy/insert memories into slots
+* upload image back to radio
+* save image and/or export to csv
