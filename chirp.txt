@@ -40,8 +40,8 @@ G.I.G.O.
 * wrong tones, offsets?
 
 
-Solution?
-=========
+Computer Solution?
+==================
 
 .. class:: incremental
 
