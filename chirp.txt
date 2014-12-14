@@ -106,6 +106,16 @@ About CHIRP
 * GPLv3 license ("free software")
 
 
+Error-free
+==========
+
+I would love to
+change the world,
+but they won't give me
+the source code.
+-- Anonymous
+
+
 Memory Reminder
 ===============
 
@@ -140,6 +150,14 @@ Getting Started
 * whatever weird connector on the end
 * build or buy one
 * download and install CHIRP (LiveCD?)
+
+
+Cables
+======
+
+.. image:: images/programming_cable.png
+
+* http://adafruit.com
 
 
 Binary Images
