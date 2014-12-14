@@ -33,7 +33,7 @@ G.I.G.O.
 
 .. class:: incremental
 
-* spare transceivers
+* a few spare transceivers
 * lend them out for events
 * configure them all the same
 * hundreds of button presses
@@ -49,8 +49,7 @@ Software Solution?
 * works on only 1 OS and/or version
 * different for each rig
 * custom data formats
-* little info when it isn't working (e.g.:  Windows Error 587)
-* ERROR_MUTANT_LIMIT_EXCEEDED???
+* Windows Error 587 -> ERROR_MUTANT_LIMIT_EXCEEDED???
 
 
 Remote Assistance
@@ -69,8 +68,8 @@ Enter CHIRP
 * over 100 radios supported
 * new ones added all the time
 * costs nothing, royalty-free
-* open data formats
-* runs on nearly every OS (Python)
+* open, non-proprietary data formats
+* runs on nearly every OS (Python + GTK)
 
 
 OSes
@@ -78,14 +77,25 @@ OSes
 
 .. class:: incremental
 
-* Windows XP, Vista, 7, 8, 10?
-* Unix, Linux, Mac OS X, any BSD, Solaris, etc.
+* Windows XP, 2000, Vista, 7, 8, 8.1 and so on
+* Linux, Mac OS X, (Unix, BSD, Solaris, etc.)
 
 .. image:: images/unix_system.png
 
 
-Moar Info
-=========
+Features Focus
+==============
+
+.. class:: incremental
+
+* simple "no-frills" interface
+* basic support for lots of radios
+* get/set (some) rig settings
+* allow import/export of memories
+
+
+About CHIRP
+===========
 
 .. class:: incremental
 
@@ -96,16 +106,28 @@ Moar Info
 * GPLv3 license ("free software")
 
 
-Memories!
-=========
+Memory Reminder
+===============
 
 .. class:: incremental
 
-* plain text files (CSV) + image files
-* backup, email, share memory sets
+* name (up to 6 or 7 characters)
+* mode, output frequency + offset
+* CTCSS/DCS tones
+* channel scanning "skip"
+* D-STAR stuff (DMR, P25, etc. too?)
+
+
+What can you do?
+================
+
+.. class:: incremental
+
+* share plain text files (CSV)
+* keep backup "image" files
 * maintain event-specific lists
 * store repeater groups for travel
-* import data from online sources
+* fetch info from online sources
 
 
 Getting Started
