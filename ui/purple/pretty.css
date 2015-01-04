@@ -3,12 +3,13 @@
 
 html, body {margin: 0; padding: 0;}
 body {background: #403075; color: #000000;}
-:link, :visited {text-decoration: none; color: #261758;}
+:link, :visited {text-decoration: none; color: #877cb0;}
 #controls :active {color: #000000 !important;}
-#controls :focus {outline: 5px dotted red;}
+#controls :focus {outline: 5px dotted #572a72;}
 h1, h2, h3, h4 {font-size: 100%; margin: 0; padding: 0; font-weight: inherit;}
 
-blockquote {padding: 0 2em 0.5em; margin: 0 1.5em 0.5em;}
+blockquote {padding: 0 2em 0.5em; margin: 0 1.5em 0.5em;
+  background: #2e4372; color: #061639;}
 blockquote p {margin: 0;}
 
 kbd {font-weight: bold; font-size: 1em;}
@@ -26,7 +27,7 @@ div#footer {font-family: sans-serif; background: #605292; color: #403075;
 
 .slide {font-size: 1.2em;}
 .slide h1 {padding-top: 0; z-index: 1; margin: 0; font: bold 150% sans-serif;
-  background: #261758; color: #aaaaaa}
+  background: #261758; color: #12073b;}
 .slide h2 {font: bold 120% sans-serif; padding-top: 0.5em;}
 .slide h3 {font: bold 100% sans-serif; padding-top: 0.5em;}
 h1 abbr {font-variant: small-caps;}
@@ -42,13 +43,13 @@ div#controls form {position: absolute; bottom: 0; right: 0; width: 100%;
 #controls #navList #jumplist {position: absolute; bottom: 0; right: 0;
   background: #605292; color: #000000;}
 
-#currentSlide {text-align: center; font-size: 0.5em; color: #AAA;
+#currentSlide {text-align: center; font-size: 0.5em; color: #ffffff;
   font-family: sans-serif; font-weight: bold;}
 
-#slide0 {padding-top: 0em}
+#slide0 {padding-top: 0em; background: #12073b; color: #000000;}
 #slide0 h1 {position: static; margin: 1em 0 0; padding: 0;
-  font: bold 2em sans-serif; white-space: normal; background: #12073b;
-  color: #ffffff}
+  font: bold 2em sans-serif; white-space: normal; background: #000000;
+  color: #ffffff;}
 #slide0 h2 {font: bold italic 1em sans-serif; margin: 0.25em;}
 #slide0 h3 {margin-top: 1.5em; font-size: 1.5em;}
 #slide0 h4 {margin-top: 0; font-size: 1em;}
@@ -107,7 +108,8 @@ img.incremental {visibility: hidden;}
 
 div.sidebar {background-color: black;}
 
-pre.literal-block, pre.doctest-block {background-color: black;}
+pre.literal-block, pre.doctest-block {background-color: #605292;
+  color: #ffffff;}
 
 tt.docutils {background-color: black;}
 

@@ -5,8 +5,12 @@
 CHIRP Memory Programming
 ========================
 
-:Authors: Tyler Tidman VA3DGN
-:Date:    January 6, 2015
+.. class:: center
+
+Tyler Tidman VA3DGN
+
+.. |date| date:: January 6, 2015
+.. |Location| replace:: West-Carleton ARC
 
 
 Modern Transceivers
@@ -103,10 +107,14 @@ OSes
 
 * Image from Jurassic Park (1993)
 
-.. class:: handout
+.. container:: handout
 
-* https://en.wikipedia.org/wiki/Fsn
-* http://jurassicsystems.com
+  The scene from the movie involved using the tool known as Fsn_.
+
+  Another really excellent tutorial for Unix may be found at Jurassicsystems_.
+
+.. _Fsn: https://en.wikipedia.org/wiki/Fsn
+.. _Jurassicsystems: http://jurassicsystems.com
 
 
 Features Focus
@@ -115,10 +123,19 @@ Features Focus
 .. class:: incremental
 
 * simple "no-frills" interface
+* runs on modest hardware (no GUI?)
 * basic support for lots of radios
 * get/set (some) rig settings
 * allow import/export of memories
-*
+
+
+Zarro Boogs
+===========
+
+  "There are two ways to write error-free programs;
+  Only the third one works."
+
+  -- Anonymous
 
 
 About CHIRP
@@ -133,14 +150,13 @@ About CHIRP
 * GPLv3 license ("free software")
 
 
-Error-free
-==========
+Open Source
+===========
 
-I would love to
-change the world,
-but they won't give me
-the source code.
--- Anonymous
+  "I would love to change the world,
+  but they won't give me the source code."
+
+  -- Anonymous
 
 
 Memory Reminders
@@ -199,6 +215,15 @@ Binary Images
 * copy/insert memories into slots
 * upload image back to radio
 * save image and/or export to csv
+
+
+11 is a Crowd
+=============
+
+  "There are only 10 types of people in the world:
+  Those who understand binary and those who don't."
+
+  -- Anonymous
 
 
 Demo
