@@ -26,7 +26,9 @@ Usability
 
 .. image:: images/pirate_keyboard.png
 
-* Photo by Bobby Baker
+.. class:: tiny
+
+* Image by Bobby Baker
 
 
 G.I.G.O.
@@ -39,6 +41,16 @@ G.I.G.O.
 * configure them all the same
 * hundreds of button presses
 * wrong tones, offsets?
+
+
+Remote Assistance
+=================
+
+.. image:: images/remote_programming.png
+
+.. class:: tiny
+
+* Image from http://hamradioprogramming.com
 
 
 Software Solution
@@ -60,15 +72,9 @@ Helpful Messages
 
 .. image:: images/teenage_mutant_ninja_cat.png
 
-* http://icanhascheezburger.com
+.. class:: tiny
 
-
-Remote Assistance
-=================
-
-.. image:: images/remote_programming.png
-
-* http://hamradioprogramming.com
+* Image from http://icanhascheezburger.com
 
 
 Enter CHIRP
@@ -92,6 +98,15 @@ OSes
 * Linux, Mac OS X, (Unix, BSD, Solaris, etc.)
 
 .. image:: images/unix_system.png
+
+.. class:: tiny
+
+* Image from Jurassic Park (1993)
+
+.. class:: handout
+
+* https://en.wikipedia.org/wiki/Fsn
+* http://jurassicsystems.com
 
 
 Features Focus
@@ -169,7 +184,9 @@ Cables
 
 .. image:: images/programming_cable.png
 
-* http://adafruit.com
+.. class:: tiny
+
+* Image from http://adafruit.com
 
 
 Binary Images
