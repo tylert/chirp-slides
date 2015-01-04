@@ -1,5 +1,6 @@
 .. include:: <s5defs.txt>
 
+
 ========================
 CHIRP Memory Programming
 ========================
@@ -40,22 +41,32 @@ G.I.G.O.
 * wrong tones, offsets?
 
 
-Software Solution?
-==================
+Software Solution
+=================
 
 .. class:: incremental
 
 * sold as an accessory, for more $$$
 * works on only 1 OS and/or version
-* different for each rig
-* custom data formats
-* Windows Error 587 -> ERROR_MUTANT_LIMIT_EXCEEDED???
+* usually different for each rig
+* uses custom data formats
+* nearly impossible to diagnose errors
+
+
+Helpful Messages
+================
+
+* "Windows Error 587" -> ERROR_MUTANT_LIMIT_EXCEEDED
+
+.. image:: images/teenage_mutant_ninja_cat.png
+
+* http://icanhascheezburger.com
 
 
 Remote Assistance
 =================
 
-.. image:: images/help_programming.png
+.. image:: images/remote_programming.png
 
 * http://hamradioprogramming.com
 
@@ -69,7 +80,7 @@ Enter CHIRP
 * new ones added all the time
 * costs nothing, royalty-free
 * open, non-proprietary data formats
-* runs on nearly every OS (Python + GTK)
+* will run on nearly every OS (Python + GTK)
 
 
 OSes
@@ -92,6 +103,7 @@ Features Focus
 * basic support for lots of radios
 * get/set (some) rig settings
 * allow import/export of memories
+*
 
 
 About CHIRP
@@ -116,8 +128,8 @@ the source code.
 -- Anonymous
 
 
-Memory Reminder
-===============
+Memory Reminders
+================
 
 .. class:: incremental
 
@@ -128,8 +140,8 @@ Memory Reminder
 * D-STAR stuff (DMR, P25, etc. too?)
 
 
-What can you do?
-================
+What can you do with it?
+========================
 
 .. class:: incremental
 
@@ -170,3 +182,7 @@ Binary Images
 * copy/insert memories into slots
 * upload image back to radio
 * save image and/or export to csv
+
+
+Demo
+====
