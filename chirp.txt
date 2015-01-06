@@ -150,6 +150,16 @@ About CHIRP
 * GPLv3 license ("free software")
 
 
+Web Page
+========
+
+.. image:: images/web_page.png
+
+.. class:: tiny
+
+* Image from http://chirp.danplanet.com
+
+
 Open Source
 ===========
 
