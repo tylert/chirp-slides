@@ -168,7 +168,7 @@ Memory Reminders
 * mode, output frequency + offset
 * CTCSS/DCS encode/decode
 * channel scanning "skip"
-* D-STAR stuff (DMR, P25, APRS, etc. too)
+* D-STAR goo
 
 
 What can you do with it?
@@ -176,11 +176,23 @@ What can you do with it?
 
 .. class:: incremental
 
-* share plain text files (CSV)
-* keep backup "image" files
+* share plain text file lists (CSV)
+* keep clean backup "image" files
 * maintain event-specific lists
 * store repeater groups for travel
 * fetch info from online sources
+
+
+Other New Stuff
+===============
+
+.. class:: incremental
+
+* P25, DV, PKT, DIGI modes
+* support for "duplex" channels
+* internationalization (other languages)
+* configure band edges and power levels
+* extract captured APRS/AX.25 packets
 
 
 Getting Started
