@@ -107,7 +107,7 @@ OSes
 
 .. class:: incremental
 
-* Windows XP, 2000, Vista, 7, 8, 8.1 and so on
+* Windows XP, Vista, 7, 8, 8.1 and so on
 * Linux, Mac OS X, (Unix, BSD, Solaris, etc.)
 
 .. image:: images/unix_system.png
