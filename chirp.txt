@@ -93,6 +93,15 @@ Enter CHIRP
 * will run on nearly every OS (Python + GTK)
 
 
+Zarro Boogs
+===========
+
+  "There are two ways to write error-free programs;
+  Only the third one works."
+
+  -- Anonymous
+
+
 OSes
 ====
 
@@ -129,15 +138,6 @@ Features Focus
 * allow import/export of memories
 
 
-Zarro Boogs
-===========
-
-  "There are two ways to write error-free programs;
-  Only the third one works."
-
-  -- Anonymous
-
-
 About CHIRP
 ===========
 
@@ -166,9 +166,9 @@ Memory Reminders
 
 * name (up to 6 or 7 characters)
 * mode, output frequency + offset
-* CTCSS/DCS tones
+* CTCSS/DCS encode/decode
 * channel scanning "skip"
-* D-STAR stuff (DMR, P25, etc. too?)
+* D-STAR stuff (DMR, P25, APRS, etc. too)
 
 
 What can you do with it?
