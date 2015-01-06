@@ -193,6 +193,22 @@ What can you do with it?
 * fetch info from online sources
 
 
+CSV Data File
+=============
+
+.. image:: images/csv_sample.png
+
+.. class:: tiny
+
+* Image by Tyler Tidman
+
+.. container:: handout
+
+  Local repeaters used by EMRG_.
+
+.. _EMRG: http://emrg.ca
+
+
 Other New Stuff
 ===============
 
@@ -203,6 +219,16 @@ Other New Stuff
 * internationalization (other languages)
 * configure band edges and power levels
 * extract captured APRS/AX.25 packets
+
+
+Interface Sample
+================
+
+.. image:: images/gui_sample.png
+
+.. class:: tiny
+
+* Image from CHIRP
 
 
 Getting Started
