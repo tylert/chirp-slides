@@ -276,3 +276,10 @@ Binary Images
 
 Demo
 ====
+
+
+Slides
+======
+
+* http://tylert.github.com/chirp-slides/
+* https://github.com/tylert/chirp-slides/
