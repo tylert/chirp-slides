@@ -281,5 +281,5 @@ Demo
 Slides
 ======
 
-* http://tylert.github.com/chirp-slides/
+* http://tylert.github.io/chirp-slides/
 * https://github.com/tylert/chirp-slides/
