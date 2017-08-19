@@ -3,14 +3,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="generator" content="Docutils 0.11: http://docutils.sourceforge.net/" />
+<meta name="generator" content="Docutils 0.14: http://docutils.sourceforge.net/" />
 <meta name="version" content="S5 1.1" />
 <title>CHIRP Memory Programming</title>
 <style type="text/css">
 
 /*
 :Author: David Goodger (goodger@python.org)
-:Id: $Id: html4css1.css 7614 2013-02-21 15:55:51Z milde $
+:Id: $Id: html4css1.css 7952 2016-07-26 18:15:59Z milde $
 :Copyright: This stylesheet has been placed in the public domain.
 
 Default cascading style sheet for the HTML output of Docutils.
@@ -37,6 +37,14 @@ table.borderless td, table.borderless th {
 
 .hidden {
   display: none }
+
+.subscript {
+  vertical-align: sub;
+  font-size: smaller }
+
+.superscript {
+  vertical-align: super;
+  font-size: smaller }
 
 a.toc-backref {
   text-decoration: none ;
@@ -162,18 +170,23 @@ h2.subtitle {
 hr.docutils {
   width: 75% }
 
-img.align-left, .figure.align-left, object.align-left {
+img.align-left, .figure.align-left, object.align-left, table.align-left {
   clear: left ;
   float: left ;
   margin-right: 1em }
 
-img.align-right, .figure.align-right, object.align-right {
+img.align-right, .figure.align-right, object.align-right, table.align-right {
   clear: right ;
   float: right ;
   margin-left: 1em }
 
 img.align-center, .figure.align-center, object.align-center {
   display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table.align-center {
   margin-left: auto;
   margin-right: auto;
 }
@@ -194,6 +207,15 @@ div.align-right {
 
 /* div.align-center * { */
 /*   text-align: left } */
+
+.align-top    {
+  vertical-align: top }
+
+.align-middle {
+  vertical-align: middle }
+
+.align-bottom {
+  vertical-align: bottom }
 
 ol.simple, ul.simple {
   margin-bottom: 1em }
@@ -472,7 +494,7 @@ Only the third one works.&quot;</p>
 <ul class="tiny simple">
 <li>Image from Jurassic Park (1993)</li>
 </ul>
-<div class="handout container">
+<div class="handout docutils container">
 <p>The scene from the movie involved using the tool known as <a class="reference external" href="https://en.wikipedia.org/wiki/Fsn">Fsn</a>.</p>
 <p>Another really excellent tutorial for Unix may be found at <a class="reference external" href="http://jurassicsystems.com">Jurassicsystems</a>.</p>
 </div>
@@ -538,7 +560,7 @@ but they won't give me the source code.&quot;</p>
 <ul class="tiny simple">
 <li>Image by Tyler Tidman</li>
 </ul>
-<div class="handout container">
+<div class="handout docutils container">
 Local repeaters used by <a class="reference external" href="http://emrg.ca">EMRG</a>.</div>
 </div>
 <div class="slide" id="other-new-stuff">
