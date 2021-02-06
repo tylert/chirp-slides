@@ -271,14 +271,14 @@ Binary Images
   "There are only 10 types of people in the world:
   Those who understand binary and those who don't."
 
+  -- Anonymous
+
 Slides
 ======
 
 * http://tylert.github.io/chirp-slides/
 * https://github.com/tylert/chirp-slides/
 * https://gitlab.com/tylert/chirp-slides/
-
-  -- Anonymous
 
 
 Demo
